@@ -6,6 +6,7 @@
     <name> -- <role> -- <twitter>
     dude1 -- boss - @dude1
     dude2 -- worker bee - @dude2
+    dude3 -- worker bee - @dude3
 
 # THANKS
 

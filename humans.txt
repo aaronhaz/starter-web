@@ -4,6 +4,8 @@
 # TEAM
 
     <name> -- <role> -- <twitter>
+    dude1 -- boss - @dude1
+    dude2 -- worker bee - @dude2
 
 # THANKS
 

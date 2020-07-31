@@ -19,6 +19,5 @@ Check for bugs!
 
 ## Copyright 
 
-2020 copyright notice here!!!  Yea, not 2014 as in the course.
-
+did i change it in other branch?  hmm...
 Going to make a change here too...

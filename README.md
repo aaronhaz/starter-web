@@ -16,3 +16,7 @@ And to deploy it...
 ## Testing
 
 Check for bugs!
+
+## Copyright 
+
+2020 copyright notice here!!!

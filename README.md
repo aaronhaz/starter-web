@@ -15,8 +15,10 @@ And to deploy it...
 
 ## Testing
 
-Check for bugs!
+Check for bugs! test realy deeeeep.
 
 ## Copyright 
 
 2020 copyright notice here!!!  Yea, not 2014 as in the course.
+
+did i change it in other branch?  hmm...
